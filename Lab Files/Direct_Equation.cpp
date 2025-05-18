@@ -65,6 +65,5 @@ int main(){
     closegraph();
     return 0;
 
-return 0;
 }
 
